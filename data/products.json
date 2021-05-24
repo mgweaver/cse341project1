@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Jackfruit",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/240000/velka/jackfruit-on-a-branch.jpg",
+    "description": "",
+    "price": "22"
+  },
+  {
+    "title": "Durian",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/70000/velka/singapore-durian-fruit.jpg",
+    "description": "",
+    "price": "19"
+  },
+  {
+    "title": "Rambutan",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/330000/velka/rambutan-sweet-delicious-fruit-1587032176Gsb.jpg",
+    "description": "",
+    "price": "25"
+  },
+  {
+    "title": "Mangosteen",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/50000/velka/mangosteen-in-pile-in-singapore.jpg",
+    "description": "",
+    "price": "19"
+  },
+  {
+    "title": "Jabuticaba",
+    "imageUrl": "https://as1.ftcdn.net/jpg/02/87/27/74/500_F_287277493_msaHI1qwRYq6d0nODB05PD0TLZRRnINP.jpg",
+    "description": "",
+    "price": "33"
+  },
+  {
+    "title": "Australian Finger Lime",
+    "imageUrl": "https://as2.ftcdn.net/jpg/01/16/40/89/500_F_116408918_jNszBL5BeFnzaBjl86HlTMSqYHyw5oHe.jpg",
+    "description": "",
+    "price": "17"
+  },
+  {
+    "title": "Hala Fruit",
+    "imageUrl": "https://as2.ftcdn.net/jpg/02/72/58/01/500_F_272580108_wppOz6oiXDoL2vt5dhJ9xGAzReC1RNpE.jpg",
+    "description": "",
+    "price": "24"
+  },
+  {
+    "title": "Miracle Berry",
+    "imageUrl": "https://as1.ftcdn.net/jpg/02/58/03/96/500_F_258039657_uUJ9EZSCLgqWgwunKIQg7orq3UIZ1jFm.jpg",
+    "description": "",
+    "price": "29"
+  },
+  {
+    "title": "Water Apple",
+    "imageUrl": "https://static2.therecipeimages.com/wordpress/wp-content/uploads/2019/10/water-apples-1-1.jpg?q=50&fit=crop&w=740&h=531&dpr=1.5",
+    "description": "",
+    "price": "29"
+  },
+  {
+    "title": "Sapodilla",
+    "imageUrl": "https://as2.ftcdn.net/jpg/02/51/49/53/500_F_251495341_LmlA9NC0zZtwEsew42QQuf3gqo2WNWdY.jpg",
+    "description": "",
+    "price": "21"
+  } 
+]
